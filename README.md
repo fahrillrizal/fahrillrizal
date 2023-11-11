@@ -1,7 +1,7 @@
 <h1 align="center">Halo 👋, aku Fahril</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrillrizal&label=Profile%20views&color=0e75b6&style=flat" alt="fahrillrizal" /> </p>
 
-- 🌱 I’m currently learning **nodejs, react, laravel, express, flutter**
+- 🌱 I’m currently learning **nodejs, react, laravel, express, flutter, swift**
 
 - 📫 How to reach me **mfahrilrizal@gmail.com**
 
