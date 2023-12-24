@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrillrizal&label=Profile%20views&color=0e75b6&style=flat" alt="fahrillrizal" /> </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=435&lines=Hello+welcome+to+my+profile" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **nodejs, react, express, flutter, swift**
+- 🌱 I’m currently learning **flutter, swift**
 
 - 📫 How to reach me **mfahrilrizal@gmail.com**
 
