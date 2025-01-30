@@ -11,6 +11,12 @@
 
 ###
 
+<h2 align="center">💻 Tech Stack</h2>
+
+###
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="10" />
