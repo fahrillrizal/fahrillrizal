@@ -7,15 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrillrizal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=aura&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
+###
+
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
-###
 
-<h2 align="center">💻 Tech Stack</h2>
-
-###
-
-###
+<h3 align="center">💻 Tech Stack</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
@@ -38,6 +35,8 @@
 </div>
 
 ###
+
+<br>
 
 ###
 
