@@ -73,5 +73,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahrillrizal/fahrillrizal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fahrillrizal/fahrillrizal/output/pacman-contribution-graph.svg">
 </picture>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kyutcr5vihfl26mshu8erth3s&unique={true|1|on|yes})
