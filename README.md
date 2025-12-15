@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=fahrillrizal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrillrizal&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
