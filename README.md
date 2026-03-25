@@ -21,6 +21,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" height="40" alt="adonisjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
